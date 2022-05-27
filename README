@@ -16,3 +16,8 @@ possible they are due to bugs in my code.
 
 For more information on this conversion contact Andrew.Davison@iaf.cnrs-gif.fr
 For more information on the original model contact U.S. Bhalla or J.M. Bower
+
+Changelog
+---------
+2022-05: Updated MOD files to compile with the latest neuron releases where
+         ion variables used as STATE can not be declared as GLOBAL.
